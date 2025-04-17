@@ -1,6 +1,6 @@
 # djentronome
 
-![image](Image/Screenshot.png)   
+![image](image/Screenshot.png)   
 
 This is a polyrhythmic metronome that I build with Flutter.
 You can download the .apk [here]().  
