@@ -1,7 +1,13 @@
 # djentronome
 
-**Privacy Policy**
+![image](Image/Screenshot.png)   
 
-This App doesn't collect any data.
+This is a polyrhythmic metronome that I build with Flutter.
+You can download the .apk [here]().  
 
-chrish.dev@web.de
+## privacy policy
+
+This app doesn't collect any data.
+
+
+
